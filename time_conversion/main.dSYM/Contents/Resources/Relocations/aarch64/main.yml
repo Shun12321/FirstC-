@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/teru/Program/FirstC-/randam_nnumber/main'
+relocations:     []
+...
